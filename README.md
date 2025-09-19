@@ -75,6 +75,7 @@ Deliverables
 Original Images
 
 Image 1: KTM Sports Bike
+
 ![download](https://github.com/user-attachments/assets/36f68475-955d-450b-9500-931a6ef1dff1)
 
 Image 2: City Bicycle
